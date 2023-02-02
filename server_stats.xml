@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics time="1661592020">
+  <uptime value="261.509"/>
+  <memory total="126720" used="110307"/>
+<attrib name="Bytes recv" value="0" />
+<attrib name="Killed rat" value="1" />
+<attrib name="Players timeout" value="0" />
+<attrib name="Bytes send" value="0" />
+<attrib name="Objects now" value="9117" />
+<attrib name="Players logged" value="0" />
+<attrib name="Players online" value="0" />
+<attrib name="Ips online" value="0" />
+<attrib name="Players login" value="0" />
+<attrib name="Players logout" value="0" />
+</statistics>
